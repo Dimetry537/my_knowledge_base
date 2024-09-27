@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "789b55e0bd5a12b7",
+        "id": "932d7b81b81c8b4f",
         "type": "tabs",
         "children": [
           {
-            "id": "1211100c71fc25d0",
+            "id": "c9a4e4ebb49f0961",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -130,16 +130,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "1211100c71fc25d0",
+  "active": "c9a4e4ebb49f0961",
   "lastOpenFiles": [
+    "python базовые понятия/структуры данных/список/изменение элемента по индексу.md",
+    "python базовые понятия/структуры данных/список/удаление элемента.md",
+    "python базовые понятия/структуры данных/список/добавление нового элемента.md",
+    "python базовые понятия/структуры данных/список/получение элемента по индексу.md",
+    "python базовые понятия/структуры данных/список/создание списка.md",
+    "python базовые понятия/структуры данных/список/базовая информация.md",
+    "python базовые понятия/структуры данных/список",
+    "Без названия",
+    "python_базовые_понятия/Без названия.md",
+    "python базовые понятия/структуры данных",
+    "python базовые понятия",
     "Welcome.md"
   ]
 }
